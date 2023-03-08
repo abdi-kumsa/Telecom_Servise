@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1664175754 source:c:\users\kumsa\desktop\projects\bank system without functions\ethiotelecom\ethiotelecom\ethio-telecom\main.cpp
+	<iostream>
+	<string>
+
+1664172154 source:c:\users\kumsa\desktop\projects\ethiotelecom\main.cpp
+	<iostream>
+	<string>
+
